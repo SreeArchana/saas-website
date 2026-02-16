@@ -26,3 +26,15 @@ Easily deploy on **GitHub Pages**:
 2. Go to **Settings → Pages**.
 3. Select the `main` branch and `/root` folder.
 4. Your site is live at:  
+https://username.github.io/repository-name/
+
+
+## 💡 Why Use This Template?
+
+- Clean, minimal, and modern design.
+- Perfect for SaaS startups, tech products, or subscription services.
+- Ready for customization and integration with backends or APIs.
+
+## 📄 License
+
+MIT License
